@@ -8,7 +8,11 @@ Pre-built versions are available on the Releases page. Download the zip for your
 
 Windows (64-bit): double-click NeuronalChess.exe. If Windows SmartScreen warns you, click More info → Run anyway (the file is not code-signed).
 
-Linux (64-bit): open a terminal in the extracted folder and run chmod +x NeuronalChess Play.sh && ./NeuronalChess. This is a console program, so it must run inside a terminal. If you prefer double-clicking, use Play.sh, which opens a terminal window for you (your file manager may ask whether to run it).
+Linux (64-bit): open a terminal in the extracted folder and run 
+```
+chmod +x NeuronalChess Play.sh && ./NeuronalChess
+```
+This is a console program, so it must run inside a terminal. If you prefer double-clicking, use Play.sh, which opens a terminal window for you (your file manager may ask whether to run it).
 # Build from source
 
 You need the .NET 10 SDK. Then, from the project folder:
