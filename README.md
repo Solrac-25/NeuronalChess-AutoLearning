@@ -4,7 +4,7 @@ A chess AI written from scratch in C# (no external libraries) that learns by pla
 
 # Download and play (no installation needed)
 
-Pre-built versions are available on the Releases page. Download the zip for your system, extract it and run it:
+Pre-built versions are available on the [Releases page](https://github.com/Solrac-25/NeuronalChess-AutoLearning/releases/latest).. Download the zip for your system, extract it and run it:
 
 Windows (64-bit): double-click NeuronalChess.exe. If Windows SmartScreen warns you, click More info → Run anyway (the file is not code-signed).
 
